@@ -25,8 +25,8 @@ XDriver is a full-stack carpooling application that connects drivers and passeng
 
 | Component | Tech Stack | Repository |
 |-----------|-----------|------------|
-| 🖥️ **Frontend** | React (Lovable) | [rideshare-connect](https://github.com/OthmaneBelkarda1/rideshare-connect) |
-| ⚙️ **Backend** | Django| [Xdriver](https://github.com/OthmaneBelkarda1/Xdriver) |
+| 🖥️ **Frontend** | React (Lovable) | [Xdriver FrontEnd][https://github.com/OthmaneBelkarda1/xdriver-FrontEnd) |
+| ⚙️ **Backend** | Django| [Xdriver Back end](https://github.com/OthmaneBelkarda1/Xdriver) |
 | 🤖 **ML Price Model** | scikit-learn, FastAPI | [carpooling-price-prediction](https://github.com/OthmaneBelkarda1/carpooling-price-prediction) |
 | 🔌 **MCP Server** | Node.js | [Carpooling_MCP_SERVER](https://github.com/OthmaneBelkarda1/Carpooling_MCP_SERVER) |
 
