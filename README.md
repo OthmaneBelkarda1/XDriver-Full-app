@@ -8,7 +8,7 @@ XDriver is a full-stack carpooling application that connects drivers and passeng
 
 ```
 ┌─────────────────┐     ┌─────────────────┐     ┌──────────────────────┐
-│   React Frontend│───▶│  Django Backend│───▶│  ML Price Prediction │
+│   React Frontend│───▶│  Django Backend│───▶  │  ML Price Prediction │
 │    (Lovable)    │     │   (REST API)    │     │  (scikit-learn +     │
 └─────────────────┘     └─────────────────┘     │     FastAPI)         │
                                 │               └──────────────────────┘
